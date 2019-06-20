@@ -1,14 +1,12 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: WWA Wing をダウンロード
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: WWA Wing をダウンロード
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  WWA Wing は インターネット RPG World Wide Adventure を新しい技術で作り直したシステムです。
+  手元のPCだけではなく、スマートフォンでも動作します。
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,12 +43,9 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: 2つのWWA Wing
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    WWA Wing には Java 版との互換性を確保した WWA Wing 3.1.x と新しい機能を積極的に取り入れた 3.2.x の2つを提供しています。
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
